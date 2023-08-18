@@ -1,17 +1,22 @@
 ﻿public class Conta
 {
-    public int numeroConta;
-    public string agencia;
-    public string titular;
-    public double saldo;
+    public int NumeroConta { get; set; }
+    public string Agencia { get; set; }
+    public string Titular { get; set; }
+    public double Saldo { get; set; }
+    public double Valor { get; set; }
 
-    public void Sacar()
+    public virtual bool Sacar()
     {
+
+
 
     }
 
     public double Depositar()
     {
+
+
 
     }
 
