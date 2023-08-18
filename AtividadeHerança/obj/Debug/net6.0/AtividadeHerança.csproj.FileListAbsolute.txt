@@ -1,0 +1,5 @@
+C:\Users\2022102020018\source\repos\AtividadeHerança\AtividadeHerança\obj\Debug\net6.0\AtividadeHerança.csproj.AssemblyReference.cache
+C:\Users\2022102020018\source\repos\AtividadeHerança\AtividadeHerança\obj\Debug\net6.0\AtividadeHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020018\source\repos\AtividadeHerança\AtividadeHerança\obj\Debug\net6.0\AtividadeHerança.AssemblyInfoInputs.cache
+C:\Users\2022102020018\source\repos\AtividadeHerança\AtividadeHerança\obj\Debug\net6.0\AtividadeHerança.AssemblyInfo.cs
+C:\Users\2022102020018\source\repos\AtividadeHerança\AtividadeHerança\obj\Debug\net6.0\AtividadeHerança.csproj.CoreCompileInputs.cache
